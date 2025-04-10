@@ -1,2 +1,2 @@
 # crewai
-PRojects related to crew ai
+Projects related to crew ai
