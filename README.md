@@ -7,4 +7,4 @@ Projects related to crew ai
 4. day4. Created my first reasearch based crew with proper configuration to research using llama3.2
 5. day5. Again proceeded to create reume writer crew ,which takes your resume,jd in text file format ,analyzes it and re-write your resume based on job description
 6. day6. Enhance the resume writer crew with pdf files ,this crew will extract text from pdf for both job description and resume ,will re write the file as per the job description
-7. 
+7. day7 . Created a crew for Financial Investment advisor , this crew analyzes company, understand it's fiancials and make a recommnedation based on it 
