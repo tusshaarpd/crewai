@@ -9,3 +9,4 @@ Projects related to crew ai
 6. day6. Enhance the resume writer crew with pdf files ,this crew will extract text from pdf for both job description and resume ,will re write the file as per the job description
 7. day7 . Created a crew for Financial Investment advisor , this crew analyzes company, understand it's fiancials and make a recommnedation based on it using ollma
 8. day 8  Created a crew for Financial Investment advisor , this crew analyzes company, understand it's fiancials and make a recommnedation based on it using open Ai
+9. day 9 (day3.pynb) : Created a Customer support Crew that reads tickets ,categorizes & Provides a solution for thic ticket
