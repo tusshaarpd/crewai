@@ -11,3 +11,4 @@ Projects related to crew ai
 8. day 8  Created a crew for Financial Investment advisor , this crew analyzes company, understand it's fiancials and make a recommnedation based on it using open Ai
 9. day 9 (day3.pynb) : Created a Customer support Crew that reads tickets ,categorizes & Provides a solution for thic ticket
 10. day 10 Create a Multiagent sales crew which genrates a sales pitch on basis of client profile
+11. Create Product Management Crew that created Product Requirement Document & User stories from Problem statemwnt 
